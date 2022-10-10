@@ -1,10 +1,11 @@
 Step 1. git init : Initialize a git repository
 Step 2. git status : Shows the status of git
 Step 3. git add --all : Adds the files in the folder to send to git commit 
-Step 4. git remote add origin <git adress> : Adds path for the github repository https://github.com/saraswatprabhat/syedandsadiatest.git
+Step 4. git remote add origin <git address> : Adds path for the github repository https://github.com/saraswatprabhat/syedandsadiatest.git
 
 Needed to be done in order :
-
+        
+        git add --all : Adds the files in the folder to send to git commit 
 Step 5. git branch -M main : Tells what the main/master branch is
 Step 6. git commit -m "<Message>" : For committing and adding
 Step 7. git push -u origin <branch name> : Pushing the code to online repo
@@ -18,3 +19,6 @@ Step 8. git checkout <branchname> : Switch branch
 Step 9. git merge <branchname> : merge branch
 Step 10. git commit -m "<merge message>" : Merge message
  
+Cloning and pulling 
+
+Step 11. git clone : Cloning repository
